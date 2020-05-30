@@ -1,8 +1,10 @@
+
 body {
   background-color: black;
   font-family: verdana;
   max-width: 1500px;
   margin: 0px auto;
+  margin-bottom: 20px;
 }
 
 h1 {
@@ -17,6 +19,16 @@ h2 {
   color: grey;
   text-align: center;
 }
+video {
+  display: block;
+  max-width: 500px;
+  margin: 0 auto;
+}
+img {
+  display: block;
+  max-width: 1500px;
+  margin: 25px auto;
+}
 .mainPicture {
     margin: 0 auto;
     max-width: 1500px;
@@ -29,6 +41,7 @@ h2 {
   display: block;
 }
 .logo {
+  margin-top: 20px;
   display: block;
   text-align: right;
   color: gray;
