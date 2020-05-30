@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  font-family: verdana;
+  max-width: 1500px;
+  margin: 0px auto;
+}
+
+h1 {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+h2 {
+  font-size: 21px;
+  color: grey;
+  text-align: center;
+}
+.mainPicture {
+    margin: 0 auto;
+    max-width: 1500px;
+}
+.hint {
+  color: aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+  text-align: center;
+  display: block;
+}
+.logo {
+  display: block;
+  text-align: right;
+  color: gray;
+}
